@@ -62,4 +62,21 @@ Health_Camp_ID: Unique Identifier for each camp. This ID is not sequential in na
 
 Outcome: Predicted probability of a favourable outcome
 
+Evaluation Metric
+
+The evaluation metric for this hackathon is ROC-AUC Score.
+
+
+Public and Private split
+
+The public leaderboard is based on 50% of test data, while final rank would be decided on remaining 50% of test data (which is private leaderboard)
+
+ 
+Guidelines for Final Submission
+
+Please ensure that your final submission includes the following:
+
+    Solution file containing the predicted probability of favourable outcome
+    Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission
+
 
